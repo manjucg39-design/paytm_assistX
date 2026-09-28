@@ -1,0 +1,7 @@
+{
+  "name": "Paytm AssistAI",
+  "description": "Autonomous AI Teammate for Payments & Customer Support - Ask. Understand. Act. Resolve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
